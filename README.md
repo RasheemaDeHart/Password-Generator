@@ -1,4 +1,4 @@
-# Rasheema DeHart JavaScript Challenge: Password Generator
+# JavaScript Challenge: Password Generator
 
 
 
