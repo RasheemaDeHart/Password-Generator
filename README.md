@@ -1,4 +1,5 @@
-# JavaScript Challenge: Password Generator
+# Rasheema DeHart
+##JavaScript Challenge: Password Generator
 
 
 ### User Story
